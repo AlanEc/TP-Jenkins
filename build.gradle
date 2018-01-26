@@ -17,7 +17,11 @@ dependencies {
 checkstyle {
     ignoreFailures = true
     checkstyleTest.enabled = false
+}
 
+jdepend {
+   ignoreFailures = true
+  jdependTest.enabled = false
 }
 
 findbugs {
