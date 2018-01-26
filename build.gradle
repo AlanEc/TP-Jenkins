@@ -4,10 +4,14 @@ apply plugin: 'findbugs'
 apply plugin: 'pmd'
 apply plugin: 'checkstyle'
 apply plugin: 'jdepend'
-
+apply plugin: 'jacoco'
 
 repositories {
     mavenCentral()
+}
+
+jacoco {
+    toolVersion = "0.7.9"
 }
 
 dependencies {
