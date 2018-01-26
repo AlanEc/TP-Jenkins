@@ -17,14 +17,13 @@ public class AdditionOperation extends OperationCommandBase {
     /**
      * make.
      */
-    public void make() {
+    public void make(final float value) {
     }
 
     /**
-     * float.
+     * currentValue.
      */
     public float getCurrentValue() {
-
         return 0;
     }
 
