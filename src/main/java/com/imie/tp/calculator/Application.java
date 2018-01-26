@@ -1,7 +1,7 @@
 package com.imie.tp.calculator;
 
 /**
- * s
+ * Application .
  * @author Anne-SOphie
  *
  */
