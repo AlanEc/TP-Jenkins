@@ -7,7 +7,7 @@ package com.imie.tp.calculator.operation;
 public abstract class OperationCommandBase implements OperationCommand {
 
   /**
-   *
+   * value.
    */
   public float currentValue = 10;
     
