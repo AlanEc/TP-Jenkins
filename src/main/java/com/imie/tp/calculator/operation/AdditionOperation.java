@@ -17,7 +17,7 @@ public class AdditionOperation extends OperationCommandBase {
     /**
      *
      */
-    public void make(float value) {
+    public void make(final float value) {
         // TODO Auto-generated method stub
 
     }
