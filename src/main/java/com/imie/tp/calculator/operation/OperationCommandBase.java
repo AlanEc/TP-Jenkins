@@ -15,8 +15,7 @@ public abstract class OperationCommandBase implements OperationCommand {
    *
    * @param baseValue
    */
-  public OperationCommandBase(final float baseValue)
-  {
+  public OperationCommandBase(final float baseValue) {
             this.currentValue = baseValue;
   }
 

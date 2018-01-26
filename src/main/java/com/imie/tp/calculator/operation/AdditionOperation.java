@@ -14,6 +14,9 @@ public class AdditionOperation extends OperationCommandBase {
         super(baseValue);
     }
 
+    /**
+     * make make.
+     */
     public void make(final float value) {
     }
 
