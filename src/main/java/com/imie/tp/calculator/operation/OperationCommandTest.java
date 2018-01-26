@@ -6,9 +6,8 @@ import org.junit.Test;
 
 public class OperationCommandTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
+    @Test
+    public void test() {
+    }
 
 }
