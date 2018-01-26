@@ -1,7 +1,11 @@
 package com.imie.tp.calculator.utils;
 
 import java.util.Scanner;
-
+/**
+ *
+ * @author Anne-SOphie
+ *
+ */
 public final class KeyboardUtils {
 
     public static String readFromKeyboard(String displayAsk) {
