@@ -10,8 +10,12 @@ public abstract class OperationCommandBase implements OperationCommand {
    * value.
    */
   public float currentValue = 10;
-    
-  public OperationCommandBase(float baseValue)
+   
+  /**
+   *
+   * @param baseValue
+   */
+  public OperationCommandBase(final float baseValue)
   {
             this.currentValue = baseValue;
   }
