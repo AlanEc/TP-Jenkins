@@ -11,5 +11,5 @@ public abstract class OperationCommandBase implements OperationCommand {
             this.currentValue = baseValue;
   }
 
-  public int currentValue = 10;
+  public float currentValue = 10;
 }

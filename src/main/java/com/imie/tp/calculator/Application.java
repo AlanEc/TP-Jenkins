@@ -10,7 +10,7 @@ public class Application {
      *
      * @param args
      */
-    public void main(String[] args) {
+    public static void main(String[] args) {
 
         // Process...
         // Display & Ask "Type of Operation ":
