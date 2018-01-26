@@ -18,7 +18,6 @@ public class AdditionOperation extends OperationCommandBase {
      *
      */
     public void make(final float value) {
-        // TODO Auto-generated method stub
 
     }
 
@@ -26,7 +25,7 @@ public class AdditionOperation extends OperationCommandBase {
      *
      */
     public float getCurrentValue() {
-        // TODO Auto-generated method stub
+
         return 0;
     }
 

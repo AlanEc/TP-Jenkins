@@ -21,7 +21,7 @@ checkstyle {
 
 jdepend {
    ignoreFailures = true
-  jdependTest.enabled = false
+   jdependTest.enabled = false
 }
 
 findbugs {
