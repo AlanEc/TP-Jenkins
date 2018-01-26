@@ -7,9 +7,13 @@ import java.util.Scanner;
  *
  */
 public final class KeyboardUtils {
-
-    public static String readFromKeyboard(String displayAsk) {
-        Scanner keyboard = new Scanner(System.in);
+    /**
+     *
+     * @param displayAsk
+     * @return
+     */
+    public static String readFromKeyboard(final String displayAsk) {
+        final Scanner keyboard = new Scanner(System.in);
 
         System.out.println(displayAsk);
 
