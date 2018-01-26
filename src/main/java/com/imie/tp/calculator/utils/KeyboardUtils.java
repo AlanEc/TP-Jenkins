@@ -13,7 +13,7 @@ public final class KeyboardUtils {
      * @return
      */
     public static String readFromKeyboard(final String displayAsk) {
-        final Scanner keyboard = new Scanner(System.in);
+        Scanner keyboard = new Scanner(System.in);
 
         System.out.println(displayAsk);
 
