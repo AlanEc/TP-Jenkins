@@ -5,8 +5,11 @@ package com.imie.tp.calculator;
  *
  */
 public class Application {
-
-    public static void main(String[] args) {
+    /**
+     *
+     * @param args
+     */
+    public void main(String[] args) {
 
         // Process...
         // Display & Ask "Type of Operation ":
